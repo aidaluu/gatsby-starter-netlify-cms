@@ -5,13 +5,36 @@
 $kaldi-red: #D64000
 $kaldi-red-invert: #fff
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
+$lin-pink: #F2C2D4
+$lin-ligh-pink: #FFE2E6
+$lin-mint: #8cac90
+$lin-jade: #c8d7ca
+$lin-yellow: #fecf67
+$lin-black: #343a47
+$white: #fff
+
+$primary: $lin-mint
+$primary-invert: $lin-yellow
 $body-color: #333
-$black: #2b2523
+$black: $lin-black
 
 .navbar .navbar-menu
   box-shadow: none !important
+
+nav
+  background-color: $lin-jade !important
+
+.navbar-item
+  &:hover
+    background-color: $white !important
+
+a
+  &:hover
+    background-color: $white 
+    color: $lin-mint !important
+
+.active
+  background-color: $white
 
 .content .taglist
   list-style: none
@@ -88,9 +111,9 @@ footer.footer
 $menu-item-color: $white-ter
 $menu-item-hover-color: $black !important
 $menu-item-hover-background-color: $black
-$menu-item-active-color: $kaldi-red-invert
-$menu-item-active-background-color:	$kaldi-red-invert
-$menu-list-border-left: 1px solid $kaldi-red-invert
+$menu-item-active-color: $lin-yellow
+$menu-item-active-background-color:	$lin-yellow
+$menu-list-border-left: 1px solid $lin-yellow
 $menu-label-color: $white-ter
 
 
