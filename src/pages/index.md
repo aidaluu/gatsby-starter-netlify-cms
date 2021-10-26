@@ -1,20 +1,20 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Lorem Ipsum
 image: /img/unadjustednonraw_thumb_43d.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Lorem Ipsum
+subheading: dolor sit amet, consectetur adipiscing elit
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Praesent porta
+  description: libero sed elementum eleifend, quam arcu vestibulum ante, quis
+    placerat ipsum dolor et metus. Fusce faucibus semper orci, at scelerisque
+    neque auctor ac. Maecenas turpis ligula, egestas vitae volutpat et, aliquam
+    non ex.
+description: Donec placerat purus felis, eleifend consectetur lectus iaculis
+  fringilla. Cras vel justo sit amet neque interdum blandit id eget dolor. Donec
+  quis justo nec neque imperdiet mattis non eget massa. Etiam auctor sem et
+  massa lobortis, nec dapibus justo gravida. Curabitur sed ex vel purus interdum
+  posuere.
 intro:
   blurbs:
     - image: /img/coffee.png
