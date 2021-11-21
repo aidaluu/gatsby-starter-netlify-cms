@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Lorem Ipsum
-image: /img/istock-465401140.jpg
+image: /img/istock-465401140_2.jpg
 heading: Lorem Ipsum
 subheading: dolor sit amet, consectetur adipiscing elit
 mainpitch:
