@@ -39,5 +39,5 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: hömps
   description: grprejiora
-imagefooter: /img/jumbotron.jpg
+imagefooter: /img/istock-465401140_4.jpg
 ---
