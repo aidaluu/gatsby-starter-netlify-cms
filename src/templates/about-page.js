@@ -10,21 +10,24 @@ export const AboutPageTemplate = ({
   heading,
   description,
   intro,
+  imagefooter,
 }) => (
   <div className="content">
     <div
-      className="full-width-image-container margin-top-0"
+      className="full-width-image margin-top-0"
       style={{
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
+        backgroundPosition: `top left`,
+        backgroundAttachment: `fixed`,
       }}
     >
       <h2
         className="has-text-weight-bold is-size-1"
         style={{
-          boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-          backgroundColor: '#f40',
+          boxShadow: '0.5rem 0 0 #F2C2D4, -0.5rem 0 0 #F2C2D4',
+          backgroundColor: '#F2C2D4',
           color: 'white',
           padding: '1rem',
         }}
@@ -49,6 +52,17 @@ export const AboutPageTemplate = ({
         </div>
       </div>
     </section>
+    <div
+      className="full-width-image margin-top-0"
+      style={{
+        backgroundImage: `url(${
+          !!imagefooter.childImageSharp ? imagefooter.childImageSharp.fluid.src : imagefooter
+        })`,
+        backgroundPosition: `top left`,
+        backgroundAttachment: `fixed`,
+        height: `150px`,
+      }}
+    ></div>
   </div>
   )
 
@@ -60,6 +74,7 @@ AboutPageTemplate.propTypes = {
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
+  imagefooter: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 }
 
 const AboutPage = ({ data }) => {
@@ -73,6 +88,7 @@ const AboutPage = ({ data }) => {
         heading={frontmatter.heading}
         description={frontmatter.description}
         intro={frontmatter.intro}
+        imagefooter={frontmatter.imagefooter}
       />
     </Layout>
   )
@@ -112,6 +128,13 @@ query AboutPage($id: String!) {
             }
           }
           text
+        }
+      }
+      imagefooter {
+        childImageSharp {
+          fluid(maxWidth: 2048, quality: 100) {
+            ...GatsbyImageSharpFluid
+          }
         }
       }
     }

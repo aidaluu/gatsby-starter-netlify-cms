@@ -14,6 +14,7 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
   intro,
+  imagefooter,
 }) => (
   <div>
     <div
@@ -40,8 +41,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
-              '#fecf67 0.5rem 0px 0px, #fecf67 -0.5rem 0px 0px',
-            backgroundColor: '#fecf67',
+              '#F2C2D4 0.5rem 0px 0px, #F2C2D4 -0.5rem 0px 0px',
+            backgroundColor: '#F2C2D4',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -53,8 +54,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              '#fecf67 0.5rem 0px 0px, #fecf67 -0.5rem 0px 0px',
-            backgroundColor: '#fecf67',
+              '#F2C2D4 0.5rem 0px 0px, #F2C2D4 -0.5rem 0px 0px',
+            backgroundColor: '#F2C2D4',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -111,6 +112,17 @@ export const IndexPageTemplate = ({
         </div>
       </div>
     </section>
+    <div
+      className="full-width-image margin-top-0"
+      style={{
+        backgroundImage: `url(${
+          !!imagefooter.childImageSharp ? imagefooter.childImageSharp.fluid.src : imagefooter
+        })`,
+        backgroundPosition: `top left`,
+        backgroundAttachment: `fixed`,
+        height: `150px`,
+      }}
+    ></div>
   </div>
 )
 
@@ -124,6 +136,7 @@ IndexPageTemplate.propTypes = {
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
+  imagefooter: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 }
 
 const IndexPage = ({ data }) => {
@@ -139,6 +152,7 @@ const IndexPage = ({ data }) => {
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         intro={frontmatter.intro}
+        imagefooter={frontmatter.imagefooter}
       />
     </Layout>
   )
@@ -186,6 +200,13 @@ export const pageQuery = graphql`
           }
           heading
           description
+        }
+        imagefooter {
+          childImageSharp {
+            fluid(maxWidth: 2048, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
         }
       }
     }
