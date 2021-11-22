@@ -45,5 +45,5 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
-imagefooter: /img/jumbotron.jpg
+imagefooter: /img/istock-465401140_4.jpg
 ---
