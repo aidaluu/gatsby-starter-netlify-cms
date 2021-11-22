@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 
-export const ProductPageTemplate = ({
+export const PublicationsPageTemplate = ({
   image,
   title,
   heading,
@@ -66,7 +66,7 @@ export const ProductPageTemplate = ({
   </div>
 )
 
-ProductPageTemplate.propTypes = {
+PublicationsPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   heading: PropTypes.string,
@@ -77,12 +77,12 @@ ProductPageTemplate.propTypes = {
   imagefooter: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 }
 
-const ProductPage = ({ data }) => {
+const PublicationsPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
   return (
     <Layout>
-      <ProductPageTemplate
+      <PublicationsPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
@@ -94,7 +94,7 @@ const ProductPage = ({ data }) => {
   )
 }
 
-ProductPage.propTypes = {
+PublicationsPage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
       frontmatter: PropTypes.object,
@@ -102,10 +102,10 @@ ProductPage.propTypes = {
   }),
 }
 
-export default ProductPage
+export default PublicationsPage
 
-export const productPageQuery = graphql`
-  query ProductPage($id: String!) {
+export const publicationsPageQuery = graphql`
+  query PublicationsPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title

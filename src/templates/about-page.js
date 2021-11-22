@@ -12,7 +12,7 @@ export const AboutPageTemplate = ({title, content, contentComponent}) => {
       <div
         className="full-width-image margin-top-0"
         style={{
-          backgroundImage: `url('/img/20150613_175857_1.jpg')`,
+          backgroundImage: `url('/img/IMG_20150620_08554_1.jpg')`,
           backgroundPosition: `top left`,
           backgroundAttachment: `fixed`
         }}
@@ -46,7 +46,7 @@ export const AboutPageTemplate = ({title, content, contentComponent}) => {
       <div
         className="full-width-image margin-top-0"
         style={{
-          backgroundImage: `url('/img/20150613_175857_1.jpg')`,
+          backgroundImage: `url('/img/IMG_20150620_08554_1.jpg')`,
           backgroundPosition: `top left`,
           backgroundAttachment: `fixed`,
           height: `150px`,
