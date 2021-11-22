@@ -8,9 +8,11 @@ export default class BlogIndexPage extends React.Component {
     return (
       <Layout>
         <div
-          className="full-width-image-container margin-top-0"
+          className="full-width-image margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
+            backgroundImage: `url('/img/20150613_175857_1.jpg')`,
+            backgroundPosition: `top left`,
+            backgroundAttachment: `fixed`
           }}
         >
           <h1
@@ -32,6 +34,15 @@ export default class BlogIndexPage extends React.Component {
             </div>
           </div>
         </section>
+        <div
+          className="full-width-image margin-top-0"
+          style={{
+            backgroundImage: `url('/img/20150613_175857_1.jpg')`,
+            backgroundPosition: `top left`,
+            backgroundAttachment: `fixed`,
+            height: `150px`,
+          }}
+        ></div>
       </Layout>
     )
   }
