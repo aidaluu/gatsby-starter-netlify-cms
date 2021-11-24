@@ -12,7 +12,8 @@ export default class BlogIndexPage extends React.Component {
           style={{
             backgroundImage: `url('/img/20150613_175857_1.jpg')`,
             backgroundPosition: `top left`,
-            backgroundAttachment: `fixed`
+            backgroundAttachment: `fixed`,
+            height: `300px`,
           }}
         >
           <h1
@@ -40,7 +41,7 @@ export default class BlogIndexPage extends React.Component {
             backgroundImage: `url('/img/20150613_175857_1.jpg')`,
             backgroundPosition: `top left`,
             backgroundAttachment: `fixed`,
-            height: `150px`,
+            height: `100px`,
           }}
         ></div>
       </Layout>

@@ -1,8 +1,8 @@
 ---
-templateKey: about-page
-path: /about
-title: About our values
-heading: About our values
+templateKey: teaching-page
+path: /teaching
+title: Teaching
+heading: Teaching
 ---
 # Morbi pretium convallis
 

@@ -1,8 +1,8 @@
 ---
-templateKey: about-page
-path: /about
-title: About our values
-heading: About our values
+templateKey: phd-page
+path: /my-phd-project
+title: My PhD Project
+heading: My PhD Project
 ---
 # Morbi pretium convallis
 

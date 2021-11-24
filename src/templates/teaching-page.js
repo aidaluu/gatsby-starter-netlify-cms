@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const AboutPageTemplate = ({title, heading, content, contentComponent}) => {
+export const TeachingPageTemplate = ({title, heading, content, contentComponent}) => {
       const PageContent = contentComponent || Content
     
   return (
@@ -55,19 +55,19 @@ export const AboutPageTemplate = ({title, heading, content, contentComponent}) =
   )
 }
 
-AboutPageTemplate.propTypes = {
+TeachingPageTemplate.propTypes = {
   title: PropTypes.string,
   heading: PropTypes.string,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
 }
 
-const AboutPage = ({ data }) => {
+const TeachingPage = ({ data }) => {
   const { markdownRemark: post } = data
 
   return (
     <Layout>
-      <AboutPageTemplate
+      <TeachingPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         heading={post.frontmatter.heading}
@@ -77,14 +77,14 @@ const AboutPage = ({ data }) => {
   )
 }
 
-AboutPage.propTypes = {
+TeachingPage.propTypes = {
   data: PropTypes.object.isRequired,
 }
 
-export default AboutPage
+export default TeachingPage
 
-export const aboutPageQuery = graphql`
-query AboutPage($id: String!) {
+export const teachingPageQuery = graphql`
+query TeachingPage($id: String!) {
   markdownRemark(id: { eq: $id }) {
     html
     frontmatter {

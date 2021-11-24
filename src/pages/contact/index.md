@@ -1,8 +1,8 @@
 ---
-templateKey: about-page
-path: /about
-title: About our values
-heading: About our values
+templateKey: contact-page
+path: /contact
+title: Contact
+heading: Stay connected
 ---
 # Morbi pretium convallis
 

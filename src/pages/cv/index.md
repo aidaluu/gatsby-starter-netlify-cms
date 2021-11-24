@@ -1,8 +1,8 @@
 ---
-templateKey: about-page
-path: /about
-title: About our values
-heading: About our values
+templateKey: cv-page
+path: /cv
+title: Curriculum Vitae
+heading: Curriculum Vitae
 ---
 # Morbi pretium convallis
 

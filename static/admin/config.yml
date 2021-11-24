@@ -50,6 +50,7 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
+          - {label: Heading, name: heading, widget: string}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/publications/index.md"
         label: "Writing And Publications Page"
@@ -62,3 +63,43 @@ collections:
           - {label: Description, name: description, widget: string}
           - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
           - {label: ImageFooter, name: imagefooter, widget: image}
+      - file: "src/pages/cv/index.md"
+        label: "CV Page"
+        name: "cv"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "cv-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: Heading, name: heading, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/teaching/index.md"
+        label: "Teaching Page"
+        name: "teaching"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "teaching-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: Heading, name: heading, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/my-phd-project/index.md"
+        label: "My PhD Project Page"
+        name: "my-phd-project"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "phd-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: Heading, name: heading, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/events/index.md"
+        label: "Events Page"
+        name: "events"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "events-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: Heading, name: heading, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "src/pages/contact/index.md"
+        label: "Contact Page"
+        name: "contact"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "contact-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: Heading, name: heading, widget: string}
+          - {label: "Body", name: "body", widget: "markdown"}

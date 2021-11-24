@@ -1,8 +1,8 @@
 ---
-templateKey: about-page
-path: /about
-title: About our values
-heading: About our values
+templateKey: events-page
+path: /events
+title: Events
+heading: Events
 ---
 # Morbi pretium convallis
 

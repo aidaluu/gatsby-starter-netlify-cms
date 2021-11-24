@@ -21,6 +21,7 @@ export const PublicationsPageTemplate = ({
         })`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
+        height: `300px`,
       }}
     >
       <h2
@@ -60,7 +61,7 @@ export const PublicationsPageTemplate = ({
         })`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
-        height: `150px`,
+        height: `100px`,
       }}
     ></div>
   </div>
