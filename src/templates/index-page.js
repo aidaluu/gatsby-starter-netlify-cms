@@ -23,7 +23,7 @@ export const IndexPageTemplate = ({
         })`,
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
-        height: `300px`,
+        height: `400px`,
       }}
     >
       <div
@@ -88,7 +88,7 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/products">
+                    <Link className="btn" to="/publications">
                       See all publications
                     </Link>
                   </div>

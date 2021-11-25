@@ -9,27 +9,6 @@ export const PhDPageTemplate = ({title, heading, content, contentComponent}) => 
     
   return (
     <div className="content">
-      <div
-        className="full-width-image margin-top-0"
-        style={{
-          backgroundImage: `url('/img/20150613_175857_3.jpg')`,
-          backgroundPosition: `top left`,
-          backgroundAttachment: `fixed`,
-          height: `300px`,
-        }}
-      >
-        <h2
-          className="has-text-weight-bold is-size-1"
-          style={{
-            boxShadow: '0.5rem 0 0 #F2C2D4, -0.5rem 0 0 #F2C2D4',
-            backgroundColor: '#F2C2D4',
-            color: 'white',
-            padding: '1rem',
-          }}
-        >
-          {title}
-        </h2>
-      </div>
       <section className="section section--gradient">
         <div className="container">
           <div className="columns">
