@@ -1,5 +1,5 @@
 ---
-heading: Great coffee with a conscience
+heading: Writing And Publications
 path: /publications
 templateKey: publications-page
 title: Writing And Publications

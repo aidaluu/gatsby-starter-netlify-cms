@@ -1,8 +1,8 @@
 ---
 templateKey: about-page
 path: /about
-title: About our values
-heading: About our values
+title: About
+heading: About
 ---
 # Morbi pretium convallis
 

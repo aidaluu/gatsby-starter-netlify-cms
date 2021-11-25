@@ -12,7 +12,7 @@ export const CVPageTemplate = ({title, heading, content, contentComponent}) => {
       <div
         className="full-width-image margin-top-0"
         style={{
-          backgroundImage: `url('/img/IMG_20150620_08554_1.jpg')`,
+          backgroundImage: `url('/img/20211125_130851_2.jpg')`,
           backgroundPosition: `top left`,
           backgroundAttachment: `fixed`,
           height: `300px`,
@@ -45,7 +45,7 @@ export const CVPageTemplate = ({title, heading, content, contentComponent}) => {
       <div
         className="full-width-image margin-top-0"
         style={{
-          backgroundImage: `url('/img/IMG_20150620_08554_1.jpg')`,
+          backgroundImage: `url('/img/20211125_130851_2.jpg')`,
           backgroundPosition: `top left`,
           backgroundAttachment: `fixed`,
           height: `100px`,
