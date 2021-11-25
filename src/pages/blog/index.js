@@ -10,10 +10,10 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image margin-top-0"
           style={{
-            backgroundImage: `url('/img/20211125_150346_2.jpg')`,
-            backgroundPosition: `top left`,
-            backgroundAttachment: `fixed`,
-            height: `300px`,
+            //backgroundImage: `url('/img/20211125_150224_2.jpg')`,
+            //backgroundPosition: `top left`,
+            //backgroundAttachment: `fixed`,
+            height: `200px`,
           }}
         >
           <h1
@@ -38,9 +38,9 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image margin-top-0"
           style={{
-            backgroundImage: `url('/img/20211125_150346_2.jpg')`,
-            backgroundPosition: `top left`,
-            backgroundAttachment: `fixed`,
+            //backgroundImage: `url('/img/20211125_150224_2.jpg')`,
+            //backgroundPosition: `top left`,
+            //backgroundAttachment: `fixed`,
             height: `100px`,
           }}
         ></div>
