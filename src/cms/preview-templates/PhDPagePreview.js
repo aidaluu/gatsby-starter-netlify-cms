@@ -4,7 +4,7 @@ import { PhDPageTemplate } from '../../templates/phd-page'
 
 const PhDPagePreview = ({ entry, widgetFor }) => (
   <PhDPageTemplate
-    title={entry.getIn(['data', 'title', 'heading'])}
+    title={entry.getIn(['data', 'heading'])}
     content={widgetFor('body')}
   />
 )

@@ -4,7 +4,7 @@ import { TeachingPageTemplate } from '../../templates/teaching-page'
 
 const TeachingPagePreview = ({ entry, widgetFor }) => (
   <TeachingPageTemplate
-    title={entry.getIn(['data', 'title', 'heading'])}
+    title={entry.getIn(['data', 'heading'])}
     content={widgetFor('body')}
   />
 )

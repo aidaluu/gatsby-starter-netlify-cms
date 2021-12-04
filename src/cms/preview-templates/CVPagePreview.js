@@ -4,7 +4,7 @@ import { CVPageTemplate } from '../../templates/cv-page'
 
 const CVPagePreview = ({ entry, widgetFor }) => (
   <CVPageTemplate
-    title={entry.getIn(['data', 'title', 'heading'])}
+    title={entry.getIn(['data', 'heading'])}
     content={widgetFor('body')}
   />
 )

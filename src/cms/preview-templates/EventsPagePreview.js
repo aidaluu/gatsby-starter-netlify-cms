@@ -4,7 +4,7 @@ import { EventsPageTemplate } from '../../templates/events-page'
 
 const EventsPagePreview = ({ entry, widgetFor }) => (
   <EventsPageTemplate
-    title={entry.getIn(['data', 'title', 'heading'])}
+    title={entry.getIn(['data', 'heading'])}
     content={widgetFor('body')}
   />
 )

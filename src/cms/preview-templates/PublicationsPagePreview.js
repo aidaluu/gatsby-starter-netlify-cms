@@ -8,7 +8,6 @@ const PublicationsPagePreview = ({ entry, getAsset }) => {
 
   return (
     <PublicationsPageTemplate
-      title={entry.getIn(['data', 'title'])}
       heading={entry.getIn(['data', 'heading'])}
       description={entry.getIn(['data', 'description'])}
       intro={{ blurbs }}
