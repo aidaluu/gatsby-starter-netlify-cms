@@ -5,8 +5,6 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 
 export const PublicationsPageTemplate = ({
-  image,
-  title,
   heading,
   description,
   intro,
@@ -45,8 +43,6 @@ export const PublicationsPageTemplate = ({
 )
 
 PublicationsPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string,
   heading: PropTypes.string,
   description: PropTypes.string,
   intro: PropTypes.shape({
@@ -61,8 +57,6 @@ const PublicationsPage = ({ data }) => {
   return (
     <Layout>
       <PublicationsPageTemplate
-        image={frontmatter.image}
-        title={frontmatter.title}
         heading={frontmatter.heading}
         description={frontmatter.description}
         intro={frontmatter.intro}
@@ -86,14 +80,6 @@ export const publicationsPageQuery = graphql`
   query PublicationsPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
-        title
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
         heading
         description
         intro {
@@ -105,10 +91,10 @@ export const publicationsPageQuery = graphql`
                 }
               }
             }
+            link
+            title
             text
           }
-          heading
-          description
         }
         imagefooter {
           childImageSharp {
