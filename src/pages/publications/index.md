@@ -27,5 +27,5 @@ intro:
       title: Title 4
       text: >
         Vestibulum imperdiet sem sit amet lacus posuere, id pulvinar massa mattis. Fusce sit amet diam dolor. Fusce in elementum augue. Sed at eros at enim maximus posuere. Cras aliquet bibendum purus, nec vestibulum nibh suscipit in. Duis eu aliquam arcu. Proin lorem sapien, interdum sed eros eu, porttitor pharetra est.
-imagefooter: /img/20170622_163045_1.jpg
+imagefooter: /img/istock-465401140_3.jpg
 ---

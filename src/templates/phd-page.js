@@ -24,7 +24,7 @@ export const PhDPageTemplate = ({title, heading, content, contentComponent}) => 
       <div
         className="full-width-image margin-top-0"
         style={{
-          backgroundImage: `url('/img/20150613_175857_3.jpg')`,
+          backgroundImage: `url('/img/istock-465401140_3.jpg')`,
           backgroundPosition: `top left`,
           backgroundAttachment: `fixed`,
           height: `100px`,
