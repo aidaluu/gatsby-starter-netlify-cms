@@ -36,12 +36,10 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
           - {label: Heading, name: heading, widget: string}
           - {label: Subheading, name: subheading, widget: string}
           - {label: Mainpitch, name: mainpitch, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Description, name: description, widget: text}]}
           - {label: Description, name: description, widget: string}
-          - {label: ImageFooter, name: imagefooter, widget: image}
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"
@@ -57,7 +55,6 @@ collections:
           - {label: Heading, name: heading, widget: string}
           - {label: Description, name: description, widget: string}
           - {label: Intro, name: intro, widget: object, fields: [{label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Link, name: link, widget: text}, {label: Title, name: title, widget: text}, {label: Text, name: text, widget: text}]}]}
-          - {label: ImageFooter, name: imagefooter, widget: image}
       - file: "src/pages/cv/index.md"
         label: "CV Page"
         name: "cv"

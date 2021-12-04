@@ -8,7 +8,6 @@ export const PublicationsPageTemplate = ({
   heading,
   description,
   intro,
-  imagefooter,
 }) => (
   <div className="content">
     <section className="section section--gradient">
@@ -29,15 +28,13 @@ export const PublicationsPageTemplate = ({
       </div>
     </section>
     <div
-      className="full-width-image margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!imagefooter.childImageSharp ? imagefooter.childImageSharp.fluid.src : imagefooter
-        })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
-        height: `100px`,
-      }}
+        className="full-width-image margin-top-0"
+        style={{
+          backgroundImage: `url('/img/istock-465401140_3.jpg')`,
+          backgroundPosition: `top left`,
+          backgroundAttachment: `fixed`,
+          height: `100px`,
+        }}
     ></div>
   </div>
 )
@@ -48,7 +45,6 @@ PublicationsPageTemplate.propTypes = {
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
-  imagefooter: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 }
 
 const PublicationsPage = ({ data }) => {
@@ -60,7 +56,6 @@ const PublicationsPage = ({ data }) => {
         heading={frontmatter.heading}
         description={frontmatter.description}
         intro={frontmatter.intro}
-        imagefooter={frontmatter.imagefooter}
       />
     </Layout>
   )
@@ -94,13 +89,6 @@ export const publicationsPageQuery = graphql`
             link
             title
             text
-          }
-        }
-        imagefooter {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
           }
         }
       }

@@ -1,7 +1,6 @@
 ---
 templateKey: index-page
 title: Lorem Ipsum
-image: /img/iStock-465401140_2.jpg
 heading: Lorem Ipsum
 subheading: dolor sit amet, consectetur adipiscing elit
 mainpitch:
@@ -15,5 +14,4 @@ description: Donec placerat purus felis, eleifend consectetur lectus iaculis
   quis justo nec neque imperdiet mattis non eget massa. Etiam auctor sem et
   massa lobortis, nec dapibus justo gravida. Curabitur sed ex vel purus interdum
   posuere.
-imagefooter: /img/iStock-465401140_2.jpg
 ---

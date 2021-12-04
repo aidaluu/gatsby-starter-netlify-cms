@@ -6,25 +6,21 @@ import Layout from '../components/Layout'
 import BlogRoll from '../components/BlogRoll'
 
 export const IndexPageTemplate = ({
-  image,
   title,
   heading,
   subheading,
   mainpitch,
   description,
-  imagefooter,
 }) => (
   <div>
     <div
-      className="full-width-image margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
-        height: `400px`,
-      }}
+        className="full-width-image margin-top-0"
+        style={{
+          backgroundImage: `url('/img/istock-465401140_2.jpg')`,
+          backgroundPosition: `top left`,
+          backgroundAttachment: `fixed`,
+          height: `400px`,
+        }}
     >
       <div
         style={{
@@ -111,27 +107,23 @@ export const IndexPageTemplate = ({
       </div>
     </section>
     <div
-      className="full-width-image margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!imagefooter.childImageSharp ? imagefooter.childImageSharp.fluid.src : imagefooter
-        })`,
-        backgroundPosition: `top left`,
-        backgroundAttachment: `fixed`,
-        height: `100px`,
-      }}
+        className="full-width-image margin-top-0"
+        style={{
+          backgroundImage: `url('/img/istock-465401140_2.jpg')`,
+          backgroundPosition: `top left`,
+          backgroundAttachment: `fixed`,
+          height: `100px`,
+        }}
     ></div>
   </div>
 )
 
 IndexPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
   description: PropTypes.string,
-  imagefooter: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 }
 
 const IndexPage = ({ data }) => {
@@ -140,13 +132,11 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
-        image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
-        imagefooter={frontmatter.imagefooter}
       />
     </Layout>
   )
@@ -167,13 +157,6 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
         title
-        image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
         heading
         subheading
         mainpitch {
@@ -181,13 +164,6 @@ export const pageQuery = graphql`
           description
         }
         description
-        imagefooter {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
       }
     }
   }
