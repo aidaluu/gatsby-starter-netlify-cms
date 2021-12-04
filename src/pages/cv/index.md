@@ -1,7 +1,6 @@
 ---
 templateKey: cv-page
 path: /cv
-title: Curriculum Vitae
 heading: Curriculum Vitae
 ---
 # Morbi pretium convallis

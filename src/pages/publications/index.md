@@ -2,7 +2,6 @@
 heading: Writing And Publications
 path: /publications
 templateKey: publications-page
-title: Writing And Publications
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam purus libero, viverra et odio quis, pharetra viverra leo. Suspendisse eget tincidunt risus, quis vestibulum nulla. Nullam fermentum mi quis dui scelerisque egestas. Maecenas a massa ipsum. Nam pellentesque purus non nisi tristique, quis auctor elit tristique. Integer eu finibus odio. Aliquam quam libero, blandit id tristique in, placerat sit amet purus. In vel dapibus nulla. Quisque laoreet velit ante, sit amet porta nisl aliquam ut. Fusce vestibulum gravida mi vitae lobortis. Fusce vitae volutpat lacus.
 intro:
   blurbs:

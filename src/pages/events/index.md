@@ -1,7 +1,6 @@
 ---
 templateKey: events-page
 path: /events
-title: Events
 heading: Events
 ---
 # Morbi pretium convallis

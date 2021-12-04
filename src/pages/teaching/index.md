@@ -1,7 +1,6 @@
 ---
 templateKey: teaching-page
 path: /teaching
-title: Teaching
 heading: Teaching
 ---
 # Morbi pretium convallis

@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
-export const ContactPageTemplate = ({title, heading, content, contentComponent}) => {
+export const ContactPageTemplate = ({heading, content, contentComponent}) => {
       const PageContent = contentComponent || Content
     
   return (
@@ -36,7 +36,6 @@ export const ContactPageTemplate = ({title, heading, content, contentComponent})
 }
 
 ContactPageTemplate.propTypes = {
-  title: PropTypes.string,
   heading: PropTypes.string,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
@@ -49,7 +48,6 @@ const ContactPage = ({ data }) => {
     <Layout>
       <ContactPageTemplate
         contentComponent={HTMLContent}
-        title={post.frontmatter.title}
         heading={post.frontmatter.heading}
         content={post.html}
       />
@@ -68,7 +66,6 @@ query ContactPage($id: String!) {
   markdownRemark(id: { eq: $id }) {
     html
     frontmatter {
-      title
       heading
     }
   }
