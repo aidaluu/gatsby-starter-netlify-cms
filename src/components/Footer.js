@@ -35,11 +35,6 @@ const Footer = class extends React.Component {
                         CV
                       </Link>
                     </li>
-                    <li>
-                      <Link className="navbar-item" to="/teaching">
-                        Teaching
-                      </Link>
-                    </li>
                   </ul>
                 </section>
               </div>

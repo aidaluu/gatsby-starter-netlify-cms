@@ -36,10 +36,11 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
           - {label: Title, name: title, widget: string}
-          - {label: Heading, name: heading, widget: string}
           - {label: Subheading, name: subheading, widget: string}
           - {label: Mainpitch, name: mainpitch, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Description, name: description, widget: text}]}
-          - {label: Description, name: description, widget: string}
+          - {label: Content 1, name: content1, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Description, name: description, widget: text}, {label: Button text, name: buttontext, widget: text}, {label: Link to, name: linkto, widget: text}]}
+          - {label: Content 2, name: content2, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Description, name: description, widget: text}, {label: Button text, name: buttontext, widget: text}, {label: Link to, name: linkto, widget: text}]}
+          - {label: Content 3, name: content3, widget: object, fields: [{label: Title, name: title, widget: string}, {label: Description, name: description, widget: text}, {label: Button text, name: buttontext, widget: text}, {label: Link to, name: linkto, widget: text}]}
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"

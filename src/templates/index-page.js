@@ -7,10 +7,11 @@ import BlogRoll from '../components/BlogRoll'
 
 export const IndexPageTemplate = ({
   title,
-  heading,
   subheading,
   mainpitch,
-  description,
+  content1,
+  content2,
+  content3,
 }) => (
   <div>
     <div
@@ -77,15 +78,45 @@ export const IndexPageTemplate = ({
                 <div className="columns">
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
+                      {content1.title}
                     </h3>
-                    <p>{description}</p>
+                    <p>{content1.description}</p>
                   </div>
                 </div>
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/publications">
-                      See all publications
+                    <Link className="btn" to={content1.linkto}>
+                      {content1.buttontext}
+                    </Link>
+                  </div>
+                </div>
+                <div className="columns">
+                  <div className="column is-12">
+                    <h3 className="has-text-weight-semibold is-size-2">
+                      {content2.title}
+                    </h3>
+                    <p>{content2.description}</p>
+                  </div>
+                </div>
+                <div className="columns">
+                  <div className="column is-12 has-text-centered">
+                    <Link className="btn" to={content2.linkto}>
+                      {content2.buttontext}
+                    </Link>
+                  </div>
+                </div>
+                <div className="columns">
+                  <div className="column is-12">
+                    <h3 className="has-text-weight-semibold is-size-2">
+                      {content3.title}
+                    </h3>
+                    <p>{content3.description}</p>
+                  </div>
+                </div>
+                <div className="columns">
+                  <div className="column is-12 has-text-centered">
+                    <Link className="btn" to={content3.linkto}>
+                      {content3.buttontext}
                     </Link>
                   </div>
                 </div>
@@ -120,10 +151,11 @@ export const IndexPageTemplate = ({
 
 IndexPageTemplate.propTypes = {
   title: PropTypes.string,
-  heading: PropTypes.string,
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
-  description: PropTypes.string,
+  content1: PropTypes.object,
+  content2: PropTypes.object,
+  content3: PropTypes.object,
 }
 
 const IndexPage = ({ data }) => {
@@ -133,10 +165,11 @@ const IndexPage = ({ data }) => {
     <Layout>
       <IndexPageTemplate
         title={frontmatter.title}
-        heading={frontmatter.heading}
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
+        content1={frontmatter.content1}
+        content2={frontmatter.content2}
+        content3={frontmatter.content3}
       />
     </Layout>
   )
@@ -157,13 +190,29 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
         title
-        heading
         subheading
         mainpitch {
           title
           description
         }
-        description
+        content1 {
+          title
+          description
+          buttontext
+          linkto
+        }
+        content2 {
+          title
+          description
+          buttontext
+          linkto
+        }
+        content3 {
+          title
+          description
+          buttontext
+          linkto
+        }
       }
     }
   }
