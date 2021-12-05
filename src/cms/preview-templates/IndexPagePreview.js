@@ -11,9 +11,9 @@ const IndexPagePreview = ({ entry }) => {
         title={data.title}
         subheading={data.subheading}
         mainpitch={data.mainpitch || {}}
-        publications={data.publications || {}}
-        events={data.events || {}}
-        project={data.project || {}}
+        content1={data.content1 || {}}
+        content2={data.content2 || {}}
+        content3={data.content3 || {}}
       />
     )
   } else {
