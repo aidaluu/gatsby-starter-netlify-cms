@@ -1,10 +1,9 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
-import vimeo from '../img/social/vimeo.svg'
+import linkedin from '../img/social/linkedin.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -71,13 +70,6 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
-                  <img
-                    src={facebook}
-                    alt="Facebook"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
                 <a title="twitter" href="https://twitter.com">
                   <img
                     className="fas fa-lg"
@@ -93,13 +85,28 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
+                <a title="linkedin" href="https://linkedin.com">
                   <img
-                    src={vimeo}
-                    alt="Vimeo"
+                    src={linkedin}
+                    alt="Linkedin"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
+              </div>
+            </div>
+            <div style={{ maxWidth: '100vw' }} className="columns">
+              <div className="column is-4">
+                <section className="menu">
+                  <ul className="menu-list">
+                    <li>
+                      <div className="copyright">
+                        <p>
+                          Copyright © 2021 Linnea Luuppala. All rights reserved.
+                        </p>
+                      </div>
+                    </li>
+                  </ul>
+                </section>
               </div>
             </div>
           </div>
