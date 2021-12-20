@@ -42,13 +42,13 @@ export const IndexPageTemplate = ({
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
+            textAlign: 'center'
           }}
         >
           {title}
         </h1>
-        <br></br>
         <h3
-          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-5-widescreen"
           style={{
             boxShadow:
               '#F2C2D4 0.5rem 0px 0px, #F2C2D4 -0.5rem 0px 0px',
