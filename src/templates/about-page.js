@@ -15,7 +15,14 @@ export const AboutPageTemplate = ({heading, content, contentComponent}) => {
             <div className="column is-10 is-offset-1">
               <div className="section">
                 <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
-                <PageContent className="content" content={content} />
+                <div className="columns">
+                  <div className="column is-4">
+                    <img src="/img/EFL_img-180_small.jpg" alt="Linnea Luuppala"></img>
+                  </div>
+                  <div className="column is-8">
+                    <PageContent className="content md" content={content} />
+                  </div>
+                </div>
               </div>
             </div>
           </div>

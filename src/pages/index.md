@@ -15,17 +15,6 @@ mainpitch:
     reconcile ideas, research fields and (reflection of) worlds. I also love how
     creative philosophy is; only our imagination and reason are the limit.  "
 content1:
-  title: Writing and Publications
-  description: "You can find a list of my writings and publications here. "
-  buttontext: See all publications
-  linkto: /publications
-content2:
-  title: Events
-  description: Find out where I'm presenting my research (public events,
-    conferences, seminars etc.).
-  buttontext: Check upcoming events
-  linkto: /events
-content3:
   title: My PhD Project
   description: "My PhD thesis titled “Degraded, Damaged, and Destroyed: A
     Conceptual Analysis of Ecological Restoration and Its Ethical Implications”
@@ -39,4 +28,15 @@ content3:
     restoration."
   buttontext: Read about my PhD project
   linkto: /my-phd-project
+content2:
+  title: Writing and Publications
+  description: "You can find a list of my writings and publications here. "
+  buttontext: See all publications
+  linkto: /publications
+content3:
+  title: Events
+  description: Find out where I'm presenting my research (public events,
+    conferences, seminars etc.).
+  buttontext: Check upcoming events
+  linkto: /events
 ---

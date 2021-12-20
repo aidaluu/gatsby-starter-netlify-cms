@@ -15,7 +15,7 @@ export const CVPageTemplate = ({heading, content, contentComponent}) => {
             <div className="column is-10 is-offset-1">
               <div className="section">
                 <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
-                <PageContent className="content" content={content} />
+                <PageContent className="content md" content={content} />
               </div>
             </div>
           </div>
