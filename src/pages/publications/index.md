@@ -24,8 +24,12 @@ intro:
         this approach has the potential to fulfil our obligations regarding the
         protection of nature.
     - image: /img/istock-465401140.jpg
-      link: https://www.google.fi/
-      title: Title 2
+      link: https://link.springer.com/referenceworkentry/10.1007%2F978-1-4939-2493-6_1082-1
+      title: "Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, L. Boljka, V. Burns
+        and M. S. Johnson (2020). “Air pollution and climate change:
+        Sustainability, restoration, and ethical implications,” In Meyers R.
+        (eds) Encyclopedia of Sustainability Science and Technology, Springer,
+        New York."
       text: >
         Curabitur ornare nec ligula at molestie. Vestibulum tincidunt neque
         eros, non ultrices risus aliquet nec. Pellentesque mollis nulla nunc, id
