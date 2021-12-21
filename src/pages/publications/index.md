@@ -55,12 +55,12 @@ intro:
         Short Introduction". The image of the book is
         from:  https://www.veryshortintroductions.com/view/10.1093/actrade/9780198797166.001.0001/actrade-9780198797166 
     - image: /img/istock-465401140.jpg
-      link: https://www.google.fi/
-      title: Title 4
-      text: >
-        Vestibulum imperdiet sem sit amet lacus posuere, id pulvinar massa
-        mattis. Fusce sit amet diam dolor. Fusce in elementum augue. Sed at eros
-        at enim maximus posuere. Cras aliquet bibendum purus, nec vestibulum
-        nibh suscipit in. Duis eu aliquam arcu. Proin lorem sapien, interdum sed
-        eros eu, porttitor pharetra est.
+      link: https://energyfutureslab.blog/2016/11/25/is-energy-an-ethical-issue/
+      title: Luuppala, Linnea (2016). “Is energy an ethical issue?,” Energy Futures
+        Lab Blog.
+      text: 'This is a blog post I wrote based on my presentation at the Energy
+        Futures Lab Seminar Series at Imperial College London. My presentation
+        and subsequent blog were both titled "“Is energy an ethical issue?". I
+        suppose this was my first attempt at public philosophy, where I aimed to
+        convey important ethical issues  to scientists. '
 ---
