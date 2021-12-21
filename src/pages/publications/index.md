@@ -8,7 +8,7 @@ description: "My writing mainly focuses on environmental philosophy and
   a wide spectrum of philosophical issues. "
 intro:
   blurbs:
-    - image: /img/istock-465401140.jpg
+    - image: /img/ron-book.jpeg
       link: https://www.routledge.com/Rights-of-Nature-A-Re-examination/Corrigan-Oksanen/p/book/9780367479596
       title: "Luuppala, Linnea (2021). “Rights-Based Restoration,” in Corrigan, &
         Oksanen, M. (eds.). Rights of Nature: A Re-Examination. Taylor & Francis
