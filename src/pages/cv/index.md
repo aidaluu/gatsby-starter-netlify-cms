@@ -21,7 +21,7 @@ Upper Second Class.
 
 Areas of specialisation: environmental philosophy, environmental ethics, social and political philosophy
 
-Areas of competence: 
+Areas of competence: normative ethics, ecological justice
 
 **AWARDS AND SCHOLARSHIPS**
 
