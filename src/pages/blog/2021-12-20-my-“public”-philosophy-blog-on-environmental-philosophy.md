@@ -11,4 +11,4 @@ tags:
 ---
 ![Image of Playmobil characters having a conversation at a meeting around a table](/img/playmobil-g56d0ec227_1920.jpg)
 
-As part of the launch of my new website, I will also start a “public” philosophy blog, where I reflect and write about the topic and themes of my PhD project. I hope this way I will be able to make my research more accessible and hopefully reach more people. It is vital that environmental philosophical and ethical questions are not restricted to intramural walls of academic philosophy. In the nature of public philosophy it is vital that this is not one-way communication but a dialogue....
+Watch this space!
