@@ -31,14 +31,21 @@ intro:
         (eds) Encyclopedia of Sustainability Science and Technology, Springer,
         New York."
       text: >
-        Curabitur ornare nec ligula at molestie. Vestibulum tincidunt neque
-        eros, non ultrices risus aliquet nec. Pellentesque mollis nulla nunc, id
-        commodo dolor mattis id. Proin euismod volutpat ligula. Duis suscipit
-        gravida ex, quis suscipit ipsum dignissim sed. Maecenas eu iaculis nibh,
-        varius egestas mi. Sed eget ipsum at mauris congue rhoncus. Nulla justo
-        quam, tincidunt ac condimentum quis, posuere vel lacus. Proin ac quam
-        viverra, finibus nunc sed, hendrerit nibh. Integer a lorem vitae magna
-        pharetra ultricies quis non odio.
+        Climate change is a profound global-scale challenge to the
+        sustainability of human society and the biosphere. This article
+        introduces the key scientific research on climate change and its ethical
+        implications. It begins by summarizing the key types of anthropogenic
+        climate forcing agents including CO2, CH4, N2O, and air pollution
+        including particulate matter (PM) and their sources. A combination of
+        mitigation, restoration, and adaptation strategies currently being
+        considered are introduced and compared. Global climate change intersects
+        with many academic disciplines and this article attempts provide a
+        holistic overview of the current observations of climate change based on
+        scientific and ethical considerations. Our analysis includes the
+        atmosphere and hydrosphere, and the impacts of climate 29 change on
+        society. The aim is to provide a fuller account of climate change from
+        perspective of disciplines not often seen together, thus providing a
+        more comprehensive account of the most defining problem of our time.
     - image: /img/istock-465401140.jpg
       link: https://www.google.fi/
       title: Title 3
