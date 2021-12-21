@@ -30,7 +30,11 @@ content1:
   linkto: /my-phd-project
 content2:
   title: Writing and Publications
-  description: "You can find a list of my writings and publications here. "
+  description: "My writing mainly focuses on environmental philosophy and
+    particularly on ecological restoration. Although my general and research
+    interests are quite broad and I hope overtime, my list of writings will
+    cover a wide spectrum of philosophical issues. Click to find a list of my
+    writings and publications. "
   buttontext: See all publications
   linkto: /publications
 content3:
