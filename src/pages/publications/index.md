@@ -47,20 +47,13 @@ intro:
         perspective of disciplines not often seen together, thus providing a
         more comprehensive account of the most defining problem of our time.
     - image: /img/istock-465401140.jpg
-      link: https://www.google.fi/
-      title: Title 3
+      link: https://www.ethical-perspectives.be/index.php
+      title: "Luuppala, Linnea (2019). “Robin Attfield. Environmental Ethics: A Very
+        Short Introduction.” Ethical Perspectives,  September 2019."
       text: >
-        Nulla facilisi. Nullam tristique dolor et faucibus fermentum. In tempor
-        enim non iaculis bibendum. Nullam erat tortor, dictum ac facilisis at,
-        pharetra quis sem. Quisque bibendum metus non efficitur blandit. Sed
-        purus lectus, suscipit vel nibh sit amet, sollicitudin imperdiet nunc.
-        In viverra scelerisque mi, vitae pharetra eros suscipit vitae.
-        Suspendisse a lectus id lorem feugiat aliquet sit amet pharetra nunc.
-        Suspendisse potenti. In laoreet augue enim, vel imperdiet metus rhoncus
-        non. Etiam feugiat nibh at metus tincidunt, in blandit nisl malesuada.
-        Sed luctus lorem sed hendrerit hendrerit. Etiam fringilla hendrerit
-        augue, non tempus metus fringilla in. Maecenas ornare sapien at quam
-        viverra dapibus. Suspendisse potenti.
+        This is a book review of Robin Attfield's "Environmental Ethics: A Very
+        Short Introduction". The image of the book is
+        from:  https://www.veryshortintroductions.com/view/10.1093/actrade/9780198797166.001.0001/actrade-9780198797166 
     - image: /img/istock-465401140.jpg
       link: https://www.google.fi/
       title: Title 4
