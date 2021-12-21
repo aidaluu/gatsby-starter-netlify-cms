@@ -9,15 +9,20 @@ description: "My writing mainly focuses on environmental philosophy and
 intro:
   blurbs:
     - image: /img/istock-465401140.jpg
-      link: https://www.google.fi/
-      title: Title 1
+      link: https://www.routledge.com/Rights-of-Nature-A-Re-examination/Corrigan-Oksanen/p/book/9780367479596
+      title: "Luuppala, Linnea (2021). “Rights-Based Restoration,” in Corrigan, &
+        Oksanen, M. (eds.). Rights of Nature: A Re-Examination. Taylor & Francis
+        Group."
       text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in tellus
-        sit amet mi iaculis fringilla. Sed porttitor ornare velit, in ultrices
-        velit posuere aliquam. Sed vitae leo vel nibh ullamcorper dictum ut et
-        augue. Fusce interdum lorem sed finibus lacinia. Ut eget quam elementum
-        leo gravida convallis. Duis tellus metus, varius quis lacus et, tempor
-        feugiat ligula.
+        This chapter considers the relationship between rights of nature and
+        ecological restoration, by sketching a rights-based approach to
+        restoration. It begins with a discussion of ecological restoration and
+        some of the debates involved in this practice. Next, it develops an
+        account of the right to restoration, including the structure, basis, and
+        duties involved in this right. Finally, it examines the ethical
+        implications of a rights-based approach to restoration, and argues that
+        this approach has the potential to fulfil our obligations regarding the
+        protection of nature.
     - image: /img/istock-465401140.jpg
       link: https://www.google.fi/
       title: Title 2
