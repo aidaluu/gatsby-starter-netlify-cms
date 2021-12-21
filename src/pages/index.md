@@ -39,8 +39,11 @@ content2:
   linkto: /publications
 content3:
   title: Events
-  description: Find out where I'm presenting my research (public events,
-    conferences, seminars etc.).
+  description: I enjoy sharing and talking about my research and particularly
+    enjoy reaching beyond the borders of philosophy. I have learned so much from
+    my discussions with academics from other research fields and the general
+    public. You can find out more where I’m presenting my research (public
+    events, conferences, seminars etc.).
   buttontext: Check upcoming events
   linkto: /events
 ---
