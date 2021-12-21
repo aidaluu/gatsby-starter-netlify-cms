@@ -23,7 +23,7 @@ intro:
         implications of a rights-based approach to restoration, and argues that
         this approach has the potential to fulfil our obligations regarding the
         protection of nature.
-    - image: /img/istock-465401140.jpg
+    - image: /img/encyclopedia-of-sustainability-science-and-technology.jpeg
       link: https://link.springer.com/referenceworkentry/10.1007%2F978-1-4939-2493-6_1082-1
       title: "Chen, J., M. J. Dahlin, L. Luuppala, D. Bickford, L. Boljka, V. Burns
         and M. S. Johnson (2020). “Air pollution and climate change:
