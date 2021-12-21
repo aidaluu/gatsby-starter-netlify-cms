@@ -46,7 +46,7 @@ intro:
         society. The aim is to provide a fuller account of climate change from
         perspective of disciplines not often seen together, thus providing a
         more comprehensive account of the most defining problem of our time.
-    - image: /img/istock-465401140.jpg
+    - image: /img/very-short-introduction.png
       link: https://www.ethical-perspectives.be/index.php
       title: "Luuppala, Linnea (2019). “Robin Attfield. Environmental Ethics: A Very
         Short Introduction.” Ethical Perspectives,  September 2019."
