@@ -2,14 +2,10 @@
 heading: Writing and Publications
 path: /publications
 templateKey: publications-page
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam
-  purus libero, viverra et odio quis, pharetra viverra leo. Suspendisse eget
-  tincidunt risus, quis vestibulum nulla. Nullam fermentum mi quis dui
-  scelerisque egestas. Maecenas a massa ipsum. Nam pellentesque purus non nisi
-  tristique, quis auctor elit tristique. Integer eu finibus odio. Aliquam quam
-  libero, blandit id tristique in, placerat sit amet purus. In vel dapibus
-  nulla. Quisque laoreet velit ante, sit amet porta nisl aliquam ut. Fusce
-  vestibulum gravida mi vitae lobortis. Fusce vitae volutpat lacus.
+description: "My writing mainly focuses on environmental philosophy and
+  particularly on ecological restoration. Although my general and research
+  interests are quite broad and I hope overtime, my list of writings will cover
+  a wide spectrum of philosophical issues. "
 intro:
   blurbs:
     - image: /img/istock-465401140.jpg
