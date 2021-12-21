@@ -34,7 +34,7 @@ The Doctoral School in Humanities and Social Sciences Travel Grant 2019 – 1000
 Finnish Doctoral Training Network in Philosophy Travel Grant 2018 – 380 €
 
 Best Presentation at the Fifth International Education Forum on Environment and Energy Science, San Diego, California, USA, Presentation: “Why Should We Restore Nature?” - 2016
-\
+
 **ARTICLES**
 
 J. Chen, M. J. Dahlin, L. Luuppala, D. Bickford, L. Boljka, V. Burns and M. S. Johnson (2020). “Air pollution and climate change: Sustainability, restoration, and ethical implications,” In Meyers R. (eds) Encyclopedia of Sustainability Science and Technology, Springer, New York, NY, https://doi.org/10.1007/978-1-4939-2493-6_1082-1.
