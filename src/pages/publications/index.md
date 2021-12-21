@@ -54,7 +54,7 @@ intro:
         This is a book review of Robin Attfield's "Environmental Ethics: A Very
         Short Introduction". The image of the book is
         from:  https://www.veryshortintroductions.com/view/10.1093/actrade/9780198797166.001.0001/actrade-9780198797166 
-    - image: /img/istock-465401140.jpg
+    - image: /img/screenshot-2021-12-21-at-7.40.59.png
       link: https://energyfutureslab.blog/2016/11/25/is-energy-an-ethical-issue/
       title: Luuppala, Linnea (2016). “Is energy an ethical issue?,” Energy Futures
         Lab Blog.
