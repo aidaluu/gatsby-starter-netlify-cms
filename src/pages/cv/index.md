@@ -41,11 +41,11 @@ J. Chen, M. J. Dahlin, L. Luuppala, D. Bickford, L. Boljka, V. Burns and M. S. J
 
 **BOOK CHAPTERS**
 
-Luuppala, Linnea (2021). “Rights-Based Restoration,” in Corrigan, & Oksanen, M. (eds.). Rights of Nature: A Re-Examination. Taylor & Francis Group.
+Luuppala, Linnea (2021). “Rights-Based Restoration,” in Corrigan, & Oksanen, M. (eds.) *Rights of Nature: A Re-Examination*. Taylor & Francis Group.
 
 **BOOK REVIEWS**
 
-Luuppala, Linnea (2019). “Robin Attfield. Environmental Ethics: A Very Short Introduction.” Ethical Perspectives,  September 2019.
+Luuppala, Linnea (2019). “Robin Attfield. Environmental Ethics: A Very Short Introduction.” *Ethical Perspectives*,  September 2019.
 
 **PRESENTATIONS**
 
