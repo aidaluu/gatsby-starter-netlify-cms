@@ -2,8 +2,10 @@
 templateKey: blog-post
 title: Freedom to Roam – My “Public” Philosophy Blog on Environmental Philosophy
 date: 2021-12-20T07:17:47.572Z
-description: "Freedom to roam is about the freedom to explore any topic, by
-  anyone, in the wild. "
+description: "How does environmental philosophy affect you? What do you think
+  about the big ecological restoration debate? As a researcher and writer on
+  these topics currently finalising a PhD in environmental philosophy, I share
+  my thoughts and latest findings in these areas.  "
 featuredpost: true
 featuredimage: /img/playmobil-g56d0ec227_1920.jpg
 tags:
@@ -11,11 +13,12 @@ tags:
 ---
 ![Image of Playmobil characters having a conversation at a meeting around a table](/img/playmobil-g56d0ec227_1920.jpg)
 
-Philosophy is one of the most wonderful glues holding and connecting humanity together. It emerges from the innate human characteristic to question, wonder and reflect deeply on different matters and applying the findings to create a better world. The most important aspects of human societies are built on philosophical foundations such as — the personal and shared ideas of morality; science; social, political, and legal systems. Despite this ubiquitous nature of philosophy, it has in many ways become hidden, forgotten, and lost inside the intramural walls of academia. This is what inspired me to start this “public” philosophy blog. To bring the wonders and joy of philosophy and my research out of the halls of academia out into the public.  
+Philosophy is one of the most wonderful glues holding and connecting humanity together. It emerges from the innate human characteristic to question, wonder and reflect deeply on different matters and applying the findings to create a better world. The most important aspects of human societies are built on philosophical foundations such as — the shared ideas of morality; science; social, political, and legal systems. Despite this ubiquitous nature of philosophy, it has in many ways become hidden, forgotten, and lost inside the intramural walls of academia. This is what inspired me to start this “public” philosophy blog. To bring the wonders and joy of philosophy and my research out of the halls of academia out into the public.  
 
 ### We need to have difficult discussions
 
 In this blog, I will reflect on and write about the topic and themes of my PhD project and about the general wonders of philosophy. It is my attempt to make my research more accessible, but most importantly, I aim to cover and introduce the important themes of environmental philosophy and ethics. The wholesale environmental destruction of nature and of our planet, is currently conducted with little awareness and reflection. My hope is that my blog offers an important introduction to the foundational questions and issues within the human-nature relationship and emphasizes the need to have these difficult discussions on a societal level. These important questions include (but are not limited to): What kind of values can be found in the non-human natural world? How do these values, if any, affect ethics and create obligations for humans? How should we understand and define ‘nature’? Can nature or non-human entities have interests in a morally relevant sense?
+\
 Does nature or natural entities have intrinsic value (value of and in themselves)? Do humans have a duty to preserve, conserve, and restore nature? What important intersectionalities arise with environmental issues? Are these environmental crises a symptom of a degraded human-nature relationship and a defected moral system? 
 
 ### What is philosophy?
@@ -54,7 +57,7 @@ As philosopher C. Thi Nguyen has stated, “We need to do philosophy in the worl
 
 ### I’m here to learn – not to be right but to get things right 
 
-Through this blog I intend to hone the important skill of public philosophy. The themes that I am planning to explore in this blog are the deep philosophical questions that arise from our relationship with the non-human natural world. I’ve never written a blog before, so please bear with me as I make mistakes and learn to write philosophy in a new way. Philosophy is ultimately a dialogue, so let me know if you agree, disagree, if I’ve made a mistake or if I haven’t communicated my arguments clearly. Please feel free to send me any topic suggestions. You can comment and get in touch by using the comment function below or by emailing or tweeting me (I will do my best to reply promptly, however, as a philosopher I will also need time to reflect.). To paraphrase Brené Brown, I’m here not to be right but to get things right \[8]. 
+Through this blog I intend to hone the important skill of public philosophy. I'll be exploring deep philosophical questions that arise from our relationship with the non-human natural world. I’ve never written a blog before, so please bear with me as I learn to write philosophy in a new way. Philosophy is ultimately a dialogue, so let me know if you agree, disagree, if I’ve made a mistake or if I haven’t communicated my arguments clearly. Please feel free to send me any topic suggestions. You can comment and get in touch by using the comment function below or by emailing or tweeting me (I will do my best to reply promptly, however, as a philosopher I will also need time to reflect.). To paraphrase Brené Brown, I’m here not to be right but to get things right \[8]. 
 
 ### References: 
 
