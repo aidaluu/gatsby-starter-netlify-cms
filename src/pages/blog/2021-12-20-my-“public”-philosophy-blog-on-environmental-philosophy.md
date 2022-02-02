@@ -18,7 +18,7 @@ Philosophy is one of the most wonderful glues holding and connecting humanity to
 ### We need to have difficult discussions
 
 In this blog, I will reflect on and write about the topic and themes of my PhD project and about the general wonders of philosophy. It is my attempt to make my research more accessible, but most importantly, I aim to cover and introduce the important themes of environmental philosophy and ethics. The wholesale environmental destruction of nature and of our planet, is currently conducted with little awareness and reflection. My hope is that my blog offers an important introduction to the foundational questions and issues within the human-nature relationship and emphasizes the need to have these difficult discussions on a societal level. These important questions include (but are not limited to): What kind of values can be found in the non-human natural world? How do these values, if any, affect ethics and create obligations for humans? How should we understand and define ‘nature’? Can nature or non-human entities have interests in a morally relevant sense?
-\
+
 Does nature or natural entities have intrinsic value (value of and in themselves)? Do humans have a duty to preserve, conserve, and restore nature? What important intersectionalities arise with environmental issues? Are these environmental crises a symptom of a degraded human-nature relationship and a defected moral system? 
 
 ### What is philosophy?
