@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: " My “Public” Philosophy Blog on Environmental Philosophy"
+title: Freedom to Roam – My “Public” Philosophy Blog on Environmental Philosophy
 date: 2021-12-20T07:17:47.572Z
-description: My first post on my "public" philosophy blog where I introduce the
-  blog and think about the meaning and purpose of public philosophy.
+description: "Freedom to roam is about the freedom to explore any topic, by
+  anyone, in the wild. "
 featuredpost: true
 featuredimage: /img/playmobil-g56d0ec227_1920.jpg
 tags:
@@ -11,4 +11,58 @@ tags:
 ---
 ![Image of Playmobil characters having a conversation at a meeting around a table](/img/playmobil-g56d0ec227_1920.jpg)
 
-Watch this space!
+Philosophy is one of the most wonderful glues holding and connecting humanity together. It emerges from the innate human characteristic to question, wonder and reflect deeply on different matters and applying the findings to create a better world. The most important aspects of human societies are built on philosophical foundations such as — the personal and shared ideas of morality; science; social, political, and legal systems. Despite this ubiquitous nature of philosophy, it has in many ways become hidden, forgotten, and lost inside the intramural walls of academia. This is what inspired me to start this “public” philosophy blog. To bring the wonders and joy of philosophy and my research out of the halls of academia out into the public.  
+
+### We need to have difficult discussions
+
+In this blog, I will reflect on and write about the topic and themes of my PhD project and about the general wonders of philosophy. It is my attempt to make my research more accessible, but most importantly, I aim to cover and introduce the important themes of environmental philosophy and ethics. The wholesale environmental destruction of nature and of our planet, is currently conducted with little awareness and reflection. My hope is that my blog offers an important introduction to the foundational questions and issues within the human-nature relationship and emphasizes the need to have these difficult discussions on a societal level. These important questions include (but are not limited to): What kind of values can be found in the non-human natural world? How do these values, if any, affect ethics and create obligations for humans? How should we understand and define ‘nature’? Can nature or non-human entities have interests in a morally relevant sense?
+Does nature or natural entities have intrinsic value (value of and in themselves)? Do humans have a duty to preserve, conserve, and restore nature? What important intersectionalities arise with environmental issues? Are these environmental crises a symptom of a degraded human-nature relationship and a defected moral system? 
+
+### What is philosophy?
+
+It is difficult to pin down philosophy to an easy definition. Philosopher Bertrand Russell described philosophy as a “No Man’s Land” that is situated somewhere between theology and science where neither science nor theology are able to provide satisfactory answers to our fundamental questions\[1].
+
+How I understand philosophy is as the art of critical thinking, the art of asking the right type of questions that focus on the fundamental characteristics of the human condition. In fact, one of the reasons that attracted me to philosophy was philosophy’s ability to examine and scrutinise anything. I believe this makes philosophy an important common ground when speaking with researchers from other fields. There is always a philosophical common ground to be found and to explore. So rather than a No Man’s Land, I would be more inclined to call philosophy the “Everyman’s Land” (or more appropriately and inclusively every person’s land), where philosophy is this common human urge to ask hard questions and the craving to understand the world, ourselves, and others better and using this knowledge to build better human societies. Philosophy is something we all share, or at least could share, which emphasises the importance of doing philosophy in the public. 
+
+### There is no such thing as ”public” philosophy
+
+However, there is an important disclaimer that must be made. I don’t think there’s such a thing as “public philosophy”. What is “public philosophy” then? Is it somehow different and distinct from academic philosophy? Philosophy is often divided into fields, such as the philosophy of language, the philosophy of mind, the philosophy of science, and my field environmental philosophy. Each of these fields can further be divided into subfields based on the questions they are aiming to answer (for example, environmental values, climate ethics, restoration debate, ecological justice and so on.) What we mean by public philosophy doesn’t seem to easily fit into this categorisation. What is meant by public philosophy, as I understand it, is making philosophy accessible and most importantly making philosophy more engaging for everyone.  
+
+Understanding public philosophy this way, I in agreement with philosopher Myisha Cherry \[2] and fellow PhD candidate Becca Rothfeld \[3] that there really isn’t such a thing as public philosophy, there’s just philosophy. For instance, Cherry writes, “Why can’t we just do philosophy and share it with the world without some special name for it?” \[2]. Or as Becca Rothfeld writes: 
+
+*“I am not convinced that there is any such thing\[…] I am sceptical that there is any meaningful, much less necessary, difference in kind between philosophy that happens to be printed in a newspaper and philosophy that finds itself cloistered in an academic journal. Both strike me as “just philosophy.”* \[3]
+
+In a similar vein, I think what differentiates public philosophy from academic philosophy, is the context and the style tailored to that context \[4]. Public philosophy is, therefore, inclusive (of participants and topics) and welcomes anyone who wants to join in the conversations, but the philosophy remains the same, even if it is slightly simplified and packaged more attractively. 
+
+### Philosophy as a public practice
+
+Philosopher Michael D. Burroughs has argued for philosophy as a public practice, that is, “a form of philosophy that engages and collaborates with stakeholders beyond the academy toward the end of improving our communities” \[5] Burroughs highlights that philosophy as a public practice is not new but rather in many ways returning philosophy to its origins. He writes: “Philosophy is not, historically, an isolated discipline, but a public-facing practice of questioning, critical thinking, and expression in service of the public good.” \[5] Philosophy has such great power to challenge, scrutinise and enlighten. I have noticed when discussing philosophical issues with researchers from other fields and with friends, how a philosophical angle really engages people to discuss important issues. It challenges us to think about things more deeply and importantly to take other arguments and points of view into consideration. As such philosophy fosters the important skill of listening, that appears so rare in current public debates. I agree with Burroughs on the importance of recognising philosophy not only as a way to increase our knowledge, but also as a powerful tool for engaging and involving everyone in important conversations that can inspire to make our communities and the world a better place. This is an ambitious goal, but an extremely important one. 
+
+### Public philosophy is needed now more than ever 
+
+At this time of fake news, social and ecological crises — and let’s not forget the current global pandemic — we need to foster critical and rational thinking more than ever. This is what public philosophy could deliver. It encourages everyone to join in to ask hard questions, to critically scrutinise conventions and to reimagine a better world. With most of the academic philosophising behind paywalls, hidden and inaccessible to the public not to mention the inaccessible style and jargon of academic philosophy, it is difficult for public philosophy to take off. I believe it is important to bring these academic debates to the public realm as we desperately need to have these important but incredibly hard conversations together. We need more critical, idealised and outside the box thinking at this decisive moment in time. 
+
+### Philosophy frees us from the tyranny of custom 
+
+Indeed, philosophy can offer an effective antidote to the current pandemic of misinformation and shallow thinking. This antidote is the critical thinking and the open mind that is vulnerable and ready to accept knowledge. One of the beautiful and powerful features of philosophy is how the philosophical mind comes accompanied by a healthy dose of self-criticism. Once you have formulated an argument, the first task is to attack it the best you can, to ensure it is robust and sound. After you have defended your own argument against your most vehement criticisms, the argument is brought to a public trial where others can stress-test your argument. Unfortunately, we are not great at replicating this method on a larger public scale. This process provides a humbling reminder of the fact that truth is in fact rare (or even impossible?) but having a critical and open mind allows us to increase our knowledge. Once again Bertrand Russell has expressed this beautifully: 
+
+*“Philosophy, though unable to tell us with certainty what is the true answer to the doubts which it raises, is able to suggest many possibilities which enlarge our thoughts and free them from the tyranny of custom. Thus, while diminishing our feeling of certainty as to what things are, it greatly increases our knowledge as to what they may be; it removes the somewhat arrogant dogmatism of those who have never travelled into the region of liberating doubt, and it keeps alive our sense of wonder by showing familiar things in an unfamiliar aspect.”* \[6] 
+
+### Doing philosophy in the world
+
+As philosopher C. Thi Nguyen has stated, “We need to do philosophy in the world”. Nguyen highlights, if we fail with this task “we will render ourselves irrelevant through our own inaction”\[7]. But I would claim that the stakes are much higher than this. As environmental philosophy has warned, if we do not do philosophy in the world there might soon not be a (natural)world to philosophise about let alone in. Looking at the environmental research, the natural world is disappearing and being destroyed at an unprecedented rate. If there are any values in the nonhuman world, which I and many environmental philosophers believe there are, we must not only recognise these but also protect these values. This requires philosophy to relay its findings to the public and to the policymakers to ensure these philosophical findings have practical force. 
+
+### I’m here to learn – not to be right but to get things right 
+
+Through this blog I intend to hone the important skill of public philosophy. The themes that I am planning to explore in this blog are the deep philosophical questions that arise from our relationship with the non-human natural world. I’ve never written a blog before, so please bear with me as I make mistakes and learn to write philosophy in a new way. Philosophy is ultimately a dialogue, so let me know if you agree, disagree, if I’ve made a mistake or if I haven’t communicated my arguments clearly. Please feel free to send me any topic suggestions. You can comment and get in touch by using the comment function below or by emailing or tweeting me (I will do my best to reply promptly, however, as a philosopher I will also need time to reflect.). To paraphrase Brené Brown, I’m here not to be right but to get things right \[8]. 
+
+### References: 
+
+\[1] Russell, Betrand (2004 \[1946]). History of Western Philosophy. Routledge, London 1.\
+\[2] Cherry, Myisha (2017). “[Coming Out of the Shade](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=http%3A%2F%2Fwww.myishacherry.org%2Fwp-content%2Fuploads%2F2014%2F11%2FPhilosophy%25E2%2580%2599s-Future-Progress-Cherry.pdf&clen=170164&chunk=true)”. In Damien Broderick and Russell Blackford (eds.) Philosophy’s Future: The Problem of Philosophical Progress. Wiley-Blackwell.\
+\[3] Rothfeld, Becca (n.d.). “What is public philosophy?”. oxford public philosophy \[online]. <https://www.oxfordpublicphilosophy.com/two/what-is-public-philosophy> \
+\[4] Cherry writes the “public philosophy is not about content but rather about style.” (Cherry 2017, 25)\
+\[5] Burroughs, Michael D. (2018). “[How to Survive a Crisis: Reclaiming Philosophy as a Public Practice](https://www.nature.com/articles/s41599-018-0163-z),” Palgrave Communications 4, (Fall 2018) \[online]. p. 2.\
+\[6] Russell, Bertrand (2001 \[1912]). The Problems of Philosophy, Oxford University Press, New York. pp. 87-88.\
+\[7] Nguyen, C. Thi (2019, July 1). “Manifesto for Public Philosophy”. Dailynous \[online].  <https://dailynous.com/2019/07/01/manifesto-public-philosophy-guest-post-c-thi-nguyen/>. \
+\[8] Brown, Brené (2020, February 13). “The Courage to Not Know”. Brené Brown \[online]. <https://brenebrown.com/articles/2020/02/13/the-courage-to-not-know/>
