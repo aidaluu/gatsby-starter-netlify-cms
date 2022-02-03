@@ -15,7 +15,7 @@ tags:
 
 Philosophy is one of the most wonderful glues holding and connecting humanity together. It emerges from the innate human characteristic to question, wonder and reflect deeply on different matters and applying these findings to create a better world. The most important aspects of human societies are built on philosophical foundations such as — morality; science; many social, political, and legal systems. Despite this ubiquitous nature of philosophy, it has in many ways become hidden, forgotten, and lost inside the intramural walls of academia. This is what inspired me to start this “public” philosophy blog. Where I aim to bring the wonders and joy of philosophy and my research out of the halls of academia out into the public. In this blog post, I reflect on what philosophy is and the importance of public philosophy and introduce the *Freedom to Roam* blog.  
 
-### We need to have difficult discussions
+### Freedom to Roam - We need to have difficult philosophical discussions
 
 I am a PhD student, working on my [PhD thesis](https://www.linnealuuppala.com/my-phd-project) on conceptual and moral issues of ecological restoration and however long I can remember, I have been worried about the state of the nature and the many non-human beings that we share nature with (apparently when I was a child at day care I used to play an injured seal stuck in an oil spill, pleading humans clean up their mess and take the injured animals to the vet. Sombre play themes like this probably didn’t make me a popular playmate).
 
