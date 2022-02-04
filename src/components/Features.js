@@ -25,10 +25,10 @@ function ImageRight(props) {
   const item = props.item
   return (
     <div className="columns">
-      <div className="column is-5">
+      <div className="column is-4">
         <PreviewCompatibleImageWithLink imageInfo={item} />
       </div>
-      <div className="column is-7">
+      <div className="column is-8">
         <a href={item.link}><h3>{item.title}</h3></a>
         <p>{item.text}</p>
       </div>
@@ -40,11 +40,11 @@ function ImageLeft(props) {
   const item = props.item
   return (
     <div className="columns">
-      <div className="column is-7">
+      <div className="column is-8">
         <a href={item.link}><h3>{item.title}</h3></a>
         <p>{item.text}</p>
       </div>
-      <div className="column is-5">
+      <div className="column is-4">
         <PreviewCompatibleImageWithLink imageInfo={item} />
       </div>
   </div>
