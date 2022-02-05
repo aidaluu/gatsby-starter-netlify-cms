@@ -96,7 +96,7 @@ const Footer = class extends React.Component {
                     <li>
                       <div className="copyright">
                         <p>
-                          Copyright © 2021 Linnea Luuppala. All rights reserved.
+                          Copyright © 2022 Linnea Luuppala. All rights reserved.
                         </p>
                       </div>
                     </li>
